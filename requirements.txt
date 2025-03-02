@@ -4,3 +4,4 @@ requests
 pdfplumber
 fastapi
 uvicorn
+python-multipart
